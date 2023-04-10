@@ -1,0 +1,32 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "",
+  "appid": "wx02de2a402e21ec0e",
+  "projectname": "手机墙纸精选",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  }
+}
